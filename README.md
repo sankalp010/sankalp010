@@ -70,7 +70,7 @@ I value clear problem-solving, maintainable code, and understanding the systems 
 ## Learning in public
 
 I'm continuing to deepen my full-stack skills while exploring AI API and LLM integration. I use projects to practise, test ideas, and turn concepts into working software—and share useful lessons as I go.
-I also build and share projects through **[behindapi](https://github.com/behindapi)** , my engineering space for exploring backend systems, full-stack development, and AI.
+<!--I also build and share projects through **[behindapi](https://github.com/behindapi)** , my engineering space for exploring backend systems, full-stack development, and AI.-->
 
 ---
 
