@@ -27,6 +27,9 @@ Building practical software, strengthening engineering fundamentals, and sharing
 <div align="center">
 <a href="https://test-portfolio-beta-blush.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-242424?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/sankalp010" title="GitHub"><img src="https://img.shields.io/badge/GitHub-242424?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<!-- <a href="https://medium.com/@sankalp10" title="Medium"><img src="https://img.shields.io/badge/Medium-242424?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://substack.com/@sankalp10" title="Substack"><img src="https://img.shields.io/badge/Substack-242424?style=flat-square&logo=substack&logoColor=white" alt="Substack" /></a>
+<a href="https://x.com/gomugomunochill" title="X"><img src="https://img.shields.io/badge/X-242424?style=flat-square&logo=x&logoColor=white" alt="X" /></a> -->
 <a href="https://linkedin.com/in/sankalp10" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
